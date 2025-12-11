@@ -56,3 +56,7 @@ Student Module: View menu, check balance, track usage
 Order Module: Place orders, generate bills, store history
 
 Report Module: Sales reports, usage logs, monthly summaries
+
+<img width="1884" height="988" alt="Screenshot 2025-11-29 112323" src="https://github.com/user-attachments/assets/9eb1909d-ee90-49d5-bf5c-cfc944617394" />
+<img width="1917" height="990" alt="Screenshot 2025-11-29 112120" src="https://github.com/user-attachments/assets/13280c12-97f3-45ec-a668-a3797b3e22b9" />
+![Uploading Screenshot 2025-11-29 112151.png…]()
